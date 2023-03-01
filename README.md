@@ -5,11 +5,11 @@
 Então, bem-vindo ao meu perfil ❤️
 ![wMkRou](https://user-images.githubusercontent.com/106775652/222025842-09452a6d-0a35-4ba5-8bd4-8e6d10cfe5d5.gif)
 
-
-- 💛 Estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas
-- 💜 Freelancer 
-- 🖤 Java, Verilog, SQL, MySQL, JavaScript, Power BI, C, C#
-- 🤍 Entusiasta da tecnologia e dos games, jogadora de RPG aos fins de semana, desenhista, e escritora.
+Um pouco sobre mim:
+- 💛 Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas, no CEFET e no Descomplica
+- 💜 Freelancer, então me contrata aí
+- 🖤 Linguagens: Java, Verilog, SQL, MySQL, JavaScript, Power BI, C, C# e sempre em busca de conhecer mais!
+- 🤍 Entusiasta da tecnologia e dos games, jogadora de RPG aos fins de semana, desenhista, e escritora. Apaixonada pela arte e suas formas, então sempre procuro transbordar minha arte de alguma forma.
 ![kittycass-peachcat](https://user-images.githubusercontent.com/106775652/222018833-f107f0db-cce5-4828-be64-7129d4fcec93.gif)
 ##
 
