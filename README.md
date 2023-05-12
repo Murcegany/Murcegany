@@ -41,7 +41,7 @@
 ### Um pouco sobre mim:
 - 💛 Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas, no CEFET e no Descomplica
 - 💜 Freelancer, então me contrata aí
-- 🖤 Linguagens: Java, Verilog, SQL, MySQL, JavaScript, Power BI, C, C# e sempre em busca de conhecer mais!
+- 🖤 Linguagens: Java, Verilog, SQL, MySQL, JavaScript, Power BI, C, C#, Python e sempre em busca de conhecer mais!
 - 🤍 Entusiasta da tecnologia e dos games, jogadora de RPG aos fins de semana, desenhista, e escritora. Apaixonada pela arte e suas formas, então sempre procuro transbordar minha arte de alguma forma.
 
 
