@@ -39,10 +39,19 @@
 ##
 
 ### Um pouco sobre mim:
-- 💛 Sou estudante de Engenharia da Computação e Análise e Desenvolvimento de Sistemas, no CEFET e no Descomplica
-- 💜 Freelancer, então me contrata aí
-- 🖤 Linguagens: Java, Verilog, SQL, MySQL, JavaScript, Power BI, C, C#, Python e sempre em busca de conhecer mais!
+- 💛 Engenheira de Dados | Desenvolvedora Backend
+- 💜 Python 🐍
+Java ☕
+C#, .NET, .NET Framework 🖥️
+Kotlin 📱
+HTML, CSS, JS 🎨
+SQL 📊
+JS 🌐
+PowerQuery/DAX, ETL, DW 💼
+GIT 🔄
 - 🤍 Entusiasta da tecnologia e dos games, jogadora de RPG aos fins de semana, desenhista, e escritora. Apaixonada pela arte e suas formas, então sempre procuro transbordar minha arte de alguma forma.
+- 👉 Para contato:
+Belo Horizonte - Brasil | ✉ emyvierasss2@gmail.com | ☎ (+55) 31 99251-1601
 
 
 
