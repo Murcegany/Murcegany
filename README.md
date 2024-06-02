@@ -62,11 +62,6 @@ Belo Horizonte - Brasil | ✉ emyvierasss2@gmail.com | ☎ (+55) 31 99251-1601
 
 ##
 
-<div align="center">
-
-![giphy](https://user-images.githubusercontent.com/106775652/222025672-4f39077c-ae65-4b66-b20d-acdb17296d1f.gif)
-  
-</div>
 
 
 
