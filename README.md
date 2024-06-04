@@ -40,19 +40,17 @@
 ### Um pouco sobre mim:
 - 💛 Engenheira de Dados | Desenvolvedora Backend
 - 💜 Python 🐍
-Java ☕
-C#, .NET, .NET Framework 🖥️
-Kotlin 📱
-HTML, CSS, JS 🎨
-SQL 📊
-JS 🌐
-PowerQuery/DAX, ETL, DW 💼
-GIT 🔄
+- Java ☕
+- C#, .NET, .NET Framework 🖥️
+- Kotlin 📱
+- HTML, CSS, JS 🎨
+- SQL 📊
+- JS 🌐
+- PowerQuery/DAX, ETL, DW 💼
+- GIT 🔄
 - 🤍 Entusiasta da tecnologia e dos games, jogadora de RPG aos fins de semana, desenhista, e escritora. Apaixonada pela arte e suas formas, então sempre procuro transbordar minha arte de alguma forma.
 - 👉 Para contato:
 Belo Horizonte - Brasil | ✉ emyvierasss2@gmail.com | ☎ (+55) 31 99251-1601
-
-
 
 <div align="center">
   <a href="https://www.instagram.com/emm.ravier/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
