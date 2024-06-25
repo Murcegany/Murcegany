@@ -8,9 +8,9 @@ Programming Languages:
 Data:
 Cloud:
 Technologies:
-- Le💜 Python 🐍
+- Python 🐍
 - Java ☕
-- C#, .NET, .NET Framework 🖥️
+- C#, .NET 🖥️
 - Kotlin 📱
 - HTML, CSS, JS 🎨
 - SQL 📊
