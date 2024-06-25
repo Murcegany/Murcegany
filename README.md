@@ -14,7 +14,6 @@ Technologies:
 - Kotlin 📱
 - HTML, CSS, JS 🎨
 - SQL 📊
-- JS 🌐
 - PowerQuery/DAX, ETL, DW 💼
 - GIT 🔄
 
