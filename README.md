@@ -30,6 +30,13 @@ Belo Horizonte - Brasil | ✉ emyvierasss2@gmail.com | ☎ (+55) 31 99251-1601
 
 ##
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Murcegany&show_icons=true&theme=ambient_gradient" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murcegany&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=ambient_gradient" />
+</a>
+
 </div><br>
 
   <div align="center">
