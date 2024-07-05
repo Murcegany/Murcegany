@@ -14,6 +14,8 @@
 
 **Data:**
 - PowerQuery/DAX, ETL, DW 💼
+- SQL
+- Database relational and non-relational
 
 **Cloud:**
 - Azure ☁️
