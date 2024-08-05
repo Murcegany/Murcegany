@@ -6,7 +6,7 @@
 
 **Programming Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#,java,kotlin)](https://skillicons.dev)
 
 **Cloud:**
 
@@ -14,7 +14,7 @@
 
 **Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,flutter,.net)](https://skillicons.dev)
 
 🤍 Technology and gaming enthusiast, RPG player on weekends, artist, and writer. Passionate about art in all its forms, I always try to express my art in some way.
 
