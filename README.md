@@ -5,24 +5,16 @@
 💛 Data Engineer | Backend Developer (.NET)
 
 **Programming Languages:**
-- Python 🐍
-- Java ☕
-- C#, .NET 🖥️
-- Kotlin 📱
-- HTML, CSS, JS 🎨
-- SQL 📊
 
-**Data:**
-- PowerQuery/DAX, ETL, DW 💼
-- SQL
-- Database relational and non-relational
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#)](https://skillicons.dev)
 
 **Cloud:**
-- Azure ☁️
-- Google Cloud Platform ☁️
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql)](https://skillicons.dev)
 
 **Technologies:**
-- GIT 🔄
+
+[![My Skills](https://skillicons.dev/icons?i=react,flutter)](https://skillicons.dev)
 
 🤍 Technology and gaming enthusiast, RPG player on weekends, artist, and writer. Passionate about art in all its forms, I always try to express my art in some way.
 
