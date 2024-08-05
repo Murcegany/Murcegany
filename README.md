@@ -10,7 +10,7 @@
 
 **Cloud:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql,postgresql)](https://skillicons.dev)
 
 **Technologies:**
 
