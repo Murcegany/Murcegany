@@ -6,15 +6,19 @@
 
 **Programming Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#,java,kotlin,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,java,kotlin,dart,c,bash,cs,cpp,r,ts)](https://skillicons.dev)
+
+**Frameworks:**
+
+[![My Skills](https://skillicons.dev/icons?i=angular,dotnet,flutter,react)](https://skillicons.dev)
 
 **Cloud:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql,postgres,gcp,mysql)](https://skillicons.dev)
 
 **Technologies:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,.net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,figma,github,powershell,visualstudio)](https://skillicons.dev)
 
 🤍 Technology and gaming enthusiast, RPG player on weekends, artist, and writer. Passionate about art in all its forms, I always try to express my art in some way.
 
