@@ -14,7 +14,7 @@
 
 **Cloud:**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,sql,postgres,gcp,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,postgres,gcp,mysql,sqlite)](https://skillicons.dev)
 
 **Technologies:**
 
