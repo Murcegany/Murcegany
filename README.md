@@ -35,7 +35,7 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Murcegany&show_icons=true&theme=outrun&include_all_commits" />
   </a>
@@ -43,5 +43,6 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murcegany&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=outrun&include_all_commits" />
   </a>
 </div>
+
 
 <br>
