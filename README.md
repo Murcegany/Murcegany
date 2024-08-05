@@ -6,7 +6,7 @@
 
 **Programming Languages:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c#,java,kotlin,dart)](https://skillicons.dev)
 
 **Cloud:**
 
