@@ -41,15 +41,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Murcegany&show_icons=true&theme=ambient_gradient" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Murcegany&show_icons=true&theme=outrun&include_all_commits" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murcegany&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=ambient_gradient" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Murcegany&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=outrun&include_all_commits" />
   </a>
 </div>
 
 <br>
-
-<div align="center">
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-</div>
