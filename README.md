@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="Welcome GIF">
 </div>
 
-### 💛 Data Engineer | Backend Developer (.NET)
+### 💛 Data Engineer | Dev Python
 
 ### 🤍 More about me:
 
