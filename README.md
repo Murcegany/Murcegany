@@ -1,15 +1,15 @@
-### Hello, I'm Emilly! 🦇
-### Welcome to my profile ❤️
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+Emilly!;Data+Engineer;Python+Enthusiast;Welcome+to+my+profile+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200px" alt="Welcome GIF">
 </div>
 
----
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murcegany&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Murcegany&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 </div>
+
 
 ## 👩‍💻 About Me
 
