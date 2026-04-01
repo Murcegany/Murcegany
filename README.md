@@ -8,23 +8,23 @@
 </div>
 
 
-## 👩‍💻 About Me
+## About Me
 
 **Data Engineer**
 
 Currently working with:
-- 🔄 **Airflow** for orchestration
-- 🐍 **Python** for data processing
-- 📨 **Kafka** for streaming data
-- 📊 **Data Governance** & **Data Cataloging**
-- ✅ **Data Quality** implementation
+-  **Airflow** for orchestration
+-  **Python** for data processing
+-  **Kafka** for streaming data
+-  **Data Governance** & **Data Cataloging**
+-  **Data Quality** implementation
 
 Besides my passion for technology, I'm also passionate about games, books, and art. 
 If you're interested, feel free to check out my RPG website. :)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Core Data Engineering**
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-FFB7C5?style=flat-square&logo=apacheairflow&logoColor=white)
@@ -58,7 +58,7 @@ If you're interested, feel free to check out my RPG website. :)
 ![GitLab](https://img.shields.io/badge/-GitLab-FF9EB5?style=flat-square&logo=gitlab&logoColor=white)
 
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emyviera/" target="_blank">
