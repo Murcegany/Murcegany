@@ -15,7 +15,6 @@
 Currently working with:
 -  **Airflow** for orchestration
 -  **Python** for data processing
--  **Kafka** for streaming data
 -  **Data Governance** & **Data Cataloging**
 -  **Data Quality** implementation
 
